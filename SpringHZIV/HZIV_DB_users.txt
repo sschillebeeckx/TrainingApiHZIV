@@ -1,0 +1,23 @@
+DB user
+-------
+
+user: tu0003X
+pwd: tu0003X
+
+with X:
+1: Stéphane
+2: Elvin
+3: Thierry
+4: David
+5: Jonathan
+6: Ali
+7: Vincent
+8: Xavier
+9: Baptiste
+a: Ayman
+b: Philippe
+
+
+
+
+	
